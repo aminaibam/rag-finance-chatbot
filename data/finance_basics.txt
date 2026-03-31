@@ -1,0 +1,55 @@
+# Personal Finance Knowledge Base
+
+## Budgeting
+
+A budget is a plan that helps you manage your income and expenses.
+The 50/30/20 rule is a popular budgeting method:
+- 50% of your after-tax income goes to needs (rent, food, utilities, transportation)
+- 30% goes to wants (dining out, entertainment, subscriptions)
+- 20% goes to savings and debt repayment
+
+To build a budget: track all income sources, list fixed expenses (rent, insurance),
+list variable expenses (groceries, leisure), and find areas to cut back.
+
+## Emergency Fund
+
+An emergency fund is money set aside for unexpected expenses such as job loss,
+medical bills, or car repairs. Financial experts recommend saving 3 to 6 months
+of living expenses in a high-interest savings account (HISA).
+Start small: even $500 to $1,000 is a meaningful first emergency fund.
+
+## Debt Management
+
+High-interest debt (credit cards, payday loans) should be paid off as quickly as possible.
+Two popular strategies:
+- Avalanche method: pay off the highest interest rate debt first (saves the most money)
+- Snowball method: pay off the smallest balance first (builds motivation)
+
+Avoid carrying a credit card balance month to month — interest rates are typically 19–22%.
+
+## Savings and Investments
+
+Registered accounts in Canada:
+- TFSA (Tax-Free Savings Account): contributions grow tax-free, withdrawals are not taxed.
+  Contribution room in 2024 is $7,000. Ideal for short and long-term goals.
+- RRSP (Registered Retirement Savings Plan): contributions are tax-deductible, but
+  withdrawals in retirement are taxed. Contribution limit is 18% of previous year income.
+- FHSA (First Home Savings Account): for first-time home buyers, combines TFSA + RRSP benefits.
+
+## Credit Score
+
+A credit score in Canada ranges from 300 to 900. A score above 660 is considered good.
+Factors that affect your score:
+- Payment history (most important): always pay at least the minimum on time
+- Credit utilization: keep usage below 30% of your credit limit
+- Length of credit history: older accounts help
+- New credit inquiries: avoid applying for too much credit at once
+
+## Mortgage Basics
+
+A mortgage is a loan used to purchase a home. Key terms:
+- Down payment: minimum 5% for homes under $500,000 in Canada
+- Amortization: the total period to repay the loan (typically 25 years)
+- Mortgage stress test: you must qualify at a rate 2% above your contract rate
+- Fixed rate: your interest rate stays the same for the term
+- Variable rate: your rate fluctuates with the Bank of Canada policy rate
