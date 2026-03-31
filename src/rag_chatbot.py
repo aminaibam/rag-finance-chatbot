@@ -5,7 +5,7 @@ A simple Retrieval-Augmented Generation (RAG) pipeline that answers
 personal finance questions based on a local knowledge base of text files.
 
 Stack:
-  - LangChain 0.3.x : orchestration (LCEL, native Pydantic v2)
+  - LangChain 0.3.x : orchestration 
   - FAISS            : vector store
   - OpenAI           : embeddings + generation (GPT-4o-mini)
 
@@ -103,7 +103,7 @@ def load_index(api_key: str) -> FAISS:
     )
 
 
-# ── RAG Chain (LCEL) ──────────────────────────────────────────────────────────
+# ── RAG Chain  ──────────────────────────────────────────────────────────
 
 def format_docs(docs: list) -> str:
     return "\n\n".join(doc.page_content for doc in docs)
