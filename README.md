@@ -1,4 +1,4 @@
-# 💬 Personal Finance RAG Chatbot
+#  Personal Finance RAG Chatbot
 
 A lightweight **Retrieval-Augmented Generation (RAG)** pipeline that answers personal finance questions grounded in a local knowledge base — no hallucinations, no made-up facts.
 
@@ -6,7 +6,7 @@ Built with **LangChain**, **FAISS**, and **OpenAI GPT-4o-mini**.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User Question
@@ -29,7 +29,7 @@ Grounded Answer + Sources
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag_finance/
@@ -44,7 +44,7 @@ rag_finance/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repo
 ```bash
@@ -72,7 +72,7 @@ python src/rag_chatbot.py
 
 ---
 
-## 💡 Example Session
+##  Example Session
 
 ```
 💬 Personal Finance RAG Chatbot
@@ -91,7 +91,7 @@ Type your question or 'quit' to exit.
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 You can adjust these parameters in `src/rag_chatbot.py`:
 
@@ -104,7 +104,7 @@ You can adjust these parameters in `src/rag_chatbot.py`:
 
 ---
 
-## 📚 Add Your Own Documents
+##  Add Your Own Documents
 
 Simply drop `.txt` files into the `data/` folder and delete the `faiss_index/` folder to rebuild the index.
 
@@ -115,7 +115,7 @@ python src/rag_chatbot.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - [LangChain](https://www.langchain.com/) — RAG orchestration
 - [FAISS](https://github.com/facebookresearch/faiss) — vector similarity search
@@ -124,7 +124,7 @@ python src/rag_chatbot.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Amina Ibrah Amadou** — AI Engineer  
 [LinkedIn](https://linkedin.com/in/amina-ibrah-amadou) · [GitHub](https://github.com/aminaibam)
